@@ -7,7 +7,9 @@ Zen Mode replaces the usual Spotify chrome with a single glassmorphic album
 cover, elegant serif/sans typography, and a hand-built inline-SVG scene
 engine that reacts to the mood of what's currently playing — K-pop neon
 night, K-drama rain, anime sunset, lo-fi rainy window — falling back to a
-softly blurred, breathing version of the track's own cover art.
+blurred version of the track's own cover art.
+
+Harmonizes well with [my theme](https://github.com/Chrisss666/kpop-theme).
 
 ## Features
 
