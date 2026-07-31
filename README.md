@@ -3,6 +3,9 @@
 A minimalist, distraction-free fullscreen "now playing" overlay extension
 for [Spicetify](https://spicetify.app/).
 
+> **[Write-up →](https://404brainnotfound.at/en/projects/zen-mode/)**
+> · [Portfolio](https://404brainnotfound.at) · [Auf Deutsch](https://404brainnotfound.at/projekte/zen-mode/)
+
 Zen Mode replaces the usual Spotify chrome with a single glassmorphic album
 cover, elegant serif/sans typography, and a hand-built inline-SVG scene
 engine that reacts to the mood of what's currently playing — K-pop neon
@@ -59,3 +62,10 @@ Harmonizes well with [my theme](https://github.com/Chrisss666/kpop-theme).
 ## License
 
 [MIT](LICENSE) © Chrisss666
+
+---
+
+Part of my portfolio at **[404brainnotfound.at](https://404brainnotfound.at)**.
+Other projects: [kpop-theme](https://github.com/Chrisss666/kpop-theme) ·
+[avatarGenerator](https://github.com/Chrisss666/avatarGenerator) ·
+[all of them](https://404brainnotfound.at/en/projects/)
