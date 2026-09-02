@@ -1,18 +1,37 @@
-# Zen Mode
+<p align="center">
+  <img src="https://shieldcn.dev/header/gradient.svg?title=Zen+Mode&subtitle=A+distraction-free+fullscreen+Now+Playing+experience+for+Spicetify&mode=dark&font=geist">
+</p>
 
-A minimalist, distraction-free fullscreen "now playing" overlay extension
-for [Spicetify](https://spicetify.app/).
+<br>
 
-> **[Write-up →](https://404brainnotfound.at/en/projects/zen-mode/)**
-> · [Portfolio](https://404brainnotfound.at) · [Auf Deutsch](https://404brainnotfound.at/projekte/zen-mode/)
+<p align="center">
+  <b>Turn Spotify's Now Playing view into an immersive fullscreen experience.</b>
+</p>
 
-Zen Mode replaces the usual Spotify chrome with a single glassmorphic album
-cover, elegant serif/sans typography, and a hand-built inline-SVG scene
-engine that reacts to the mood of what's currently playing — K-pop neon
-night, K-drama rain, anime sunset, lo-fi rainy window — falling back to a
-blurred version of the track's own cover art.
+<p align="center">
+  Dynamic Scenes · Fullscreen · Playback Controls · Auto-Hide UI
+</p>
 
-Harmonizes well with [my theme](https://github.com/Chrisss666/kpop-theme).
+<p align="center">
+  <a href="https://404brainnotfound.at/en/projects/zen-mode/">Write-up</a>
+  ·
+  <a href="https://404brainnotfound.at">Portfolio</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="preview.png" alt="Zen Mode Preview" width="900">
+</p>
+
+<br>
+
+Zen Mode replaces Spotify's usual interface with a minimalist fullscreen
+Now Playing experience built around album artwork, elegant typography and
+dynamic animated scenes that adapt to the music currently playing.
+
+Use the playbar button or press <b>F8</b> to enter Zen Mode and leave the rest
+of Spotify's interface behind.
 
 ## Features
 
