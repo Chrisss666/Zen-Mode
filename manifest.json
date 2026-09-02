@@ -1,0 +1,22 @@
+{
+    "name": "Zen Mode",
+    "description": "A distraction-free fullscreen Now Playing experience for Spicetify with dynamic animated scenes, album artwork and playback controls.",
+
+    "preview": "preview.png",
+    "main": "zen-mode.js",
+    "readme": "README.md",
+
+    "authors": [
+        {
+            "name": "Chrisss666",
+            "url": "https://github.com/Chrisss666"
+        }
+    ],
+
+    "tags": [
+        "fullscreen",
+        "now-playing",
+        "visualizer",
+        "minimal"
+    ]
+}
